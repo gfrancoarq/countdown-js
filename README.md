@@ -9,6 +9,10 @@
 - HTML and CSS
 - Bootstrap
 
+Do you want to see the code explained? Watch the video here 👇
+
+[![Video Explanation](https://i9.ytimg.com/vi/myfELA6H-Co/mqdefault.jpg?v=634d93bb&sqp=CPCmtpoG&rs=AOn4CLCiDey8scVj59nXrSZKCiyeZyzUcw)](https://youtu.be/myfELA6H-Co)
+
 ## Live Demo
 
 <a href="https://gfrancoarq.github.io/countdown-js" target="_blank" class="text-white">Live Demo Link</a>
