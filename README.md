@@ -1,4 +1,4 @@
-# Project Name
+# Countdown to the New Year!
 
 > This is a very simple project, created in Javascript. If you want to see all my projects, go to my <a href="https://gfrancoarq.github.io/personal-portfolio" target="_blank" class="text-white">Portfolio!</a>
 
